@@ -1,0 +1,8 @@
+.errMsg {
+	color: red;
+	display: inline;
+	border-color: red;
+}
+.errFld {
+	border-color: red;
+}

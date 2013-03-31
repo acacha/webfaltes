@@ -1,0 +1,8 @@
+Do not delete thid folder.
+
+Before here it was libraries like smarty, php-gettext, etc... Now they are requirements that have 
+to be installled with apt-get install or similar...
+
+Libs to install in this folder:
+
+ DataTables: 

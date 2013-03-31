@@ -1,0 +1,1995 @@
+# Webfaltes po file.
+# Copyright (C) 2009 Sergi Tur Badenas
+# This file is distributed under the same license as the webfaltes package.
+# Sergi Tur <sergi.tur@upc.edu>, 2009.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: webfaltes 1.0\n"
+"Report-Msgid-Bugs-To: sergi.tur@upc.edu\n"
+"POT-Creation-Date: 2010-09-16 09:10+0200\n"
+"PO-Revision-Date: 2009-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sergi Tur <sergi.tur@upc.edu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: smarty_messages.c:2 smarty_messages.c:770 smarty_messages.c:998
+#: smarty_messages.c:1607
+msgid "Are you sure you want to delete the registry no. "
+msgstr "Estas segur que vols esborrar el registre núm. "
+
+#: smarty_messages.c:5 smarty_messages.c:773 smarty_messages.c:1610
+msgid "Are you sure you want to logic delete the registry no. "
+msgstr "Estas segur que vols esborrar el registre núm. "
+
+#: smarty_messages.c:8 smarty_messages.c:776 smarty_messages.c:1001
+#: smarty_messages.c:1613
+msgid "Are you sure you want to delete the selected registrys"
+msgstr "Estas segur que vols esborrar els registres seleccionats"
+
+#: smarty_messages.c:11 smarty_messages.c:65
+msgid "Add a father"
+msgstr "Afegir un pare/mare"
+
+#: smarty_messages.c:14 smarty_messages.c:68
+msgid "Delete selected fathers"
+msgstr "Esborrar els pares seleccionats"
+
+#: smarty_messages.c:17 smarty_messages.c:71
+msgid "Select all fathers"
+msgstr "Selecciona tots els pares"
+
+#: smarty_messages.c:20 smarty_messages.c:74
+msgid "Deselect all fathers"
+msgstr "Deselecciona tots els pares"
+
+#: smarty_messages.c:23
+msgid "List of fathers at the  school."
+msgstr "Llista dels pares de l'escola"
+
+#: smarty_messages.c:26 smarty_messages.c:536 smarty_messages.c:1634
+msgid " Photo "
+msgstr " Foto "
+
+#: smarty_messages.c:29 smarty_messages.c:227 smarty_messages.c:539
+#: smarty_messages.c:797 smarty_messages.c:1019 smarty_messages.c:1637
+msgid " Code "
+msgstr " Codi "
+
+#: smarty_messages.c:32 smarty_messages.c:542 smarty_messages.c:1640
+msgid " Complete Name "
+msgstr " Nom complet"
+
+#: smarty_messages.c:35 smarty_messages.c:545 smarty_messages.c:1643
+msgid " Address "
+msgstr " Adreça "
+
+#: smarty_messages.c:38 smarty_messages.c:548 smarty_messages.c:1646
+msgid " Postal Code "
+msgstr " Codi Postal "
+
+#: smarty_messages.c:41 smarty_messages.c:551 smarty_messages.c:1649
+msgid " City "
+msgstr " Ciutat "
+
+#: smarty_messages.c:44
+msgid " Mobile phone"
+msgstr " Telèfon mòbil "
+
+#: smarty_messages.c:47
+msgid " Email"
+msgstr " Correu electrònic"
+
+#: smarty_messages.c:50
+msgid " SMS "
+msgstr " SMS "
+
+#: smarty_messages.c:53
+msgid " MAIL "
+msgstr " CORREU "
+
+#: smarty_messages.c:56
+msgid " Father "
+msgstr " Pare/Mare "
+
+#: smarty_messages.c:59 smarty_messages.c:1667
+#, fuzzy
+msgid "Delete Student"
+msgstr "Esborrar estudiant"
+
+#: smarty_messages.c:62 smarty_messages.c:1673
+msgid "Modify Student"
+msgstr "Modificar estudiant"
+
+#: smarty_messages.c:77 smarty_messages.c:350 smarty_messages.c:407
+#: smarty_messages.c:680 smarty_messages.c:1409 smarty_messages.c:1745
+msgid "ID:"
+msgstr "ID:"
+
+#: smarty_messages.c:80 smarty_messages.c:353 smarty_messages.c:683
+#: smarty_messages.c:1412
+msgid "Name:*"
+msgstr "Nom:*"
+
+#: smarty_messages.c:83 smarty_messages.c:356 smarty_messages.c:413
+#: smarty_messages.c:686 smarty_messages.c:1415 smarty_messages.c:1751
+msgid "First surname: *"
+msgstr "Primer cognom: *"
+
+#: smarty_messages.c:86 smarty_messages.c:359 smarty_messages.c:416
+#: smarty_messages.c:689 smarty_messages.c:1418 smarty_messages.c:1754
+msgid "Second surname:"
+msgstr "Segon cognom:"
+
+#: smarty_messages.c:89 smarty_messages.c:362 smarty_messages.c:692
+#: smarty_messages.c:1421
+msgid "Adress:*"
+msgstr "Adreça:*"
+
+#: smarty_messages.c:92 smarty_messages.c:365 smarty_messages.c:695
+#: smarty_messages.c:1424
+msgid "Postal Code:*"
+msgstr "Codi postal:*"
+
+#: smarty_messages.c:95 smarty_messages.c:368 smarty_messages.c:698
+#: smarty_messages.c:1427
+msgid "City:*"
+msgstr "Ciutat:*"
+
+#: smarty_messages.c:98 smarty_messages.c:374 smarty_messages.c:704
+#: smarty_messages.c:1430
+msgid "Mobile phone:"
+msgstr "Telèfon Mòbil"
+
+#: smarty_messages.c:101 smarty_messages.c:1433
+msgid "Email:"
+msgstr "Correu electrònic"
+
+#: smarty_messages.c:104 smarty_messages.c:1436
+msgid "Wants SMS: *"
+msgstr "Vol SMS: *"
+
+#: smarty_messages.c:107 smarty_messages.c:116 smarty_messages.c:125
+#: smarty_messages.c:623 smarty_messages.c:632 smarty_messages.c:653
+#: smarty_messages.c:1127 smarty_messages.c:1439 smarty_messages.c:1445
+#: smarty_messages.c:1454 smarty_messages.c:1460 smarty_messages.c:1469
+#: smarty_messages.c:1595 smarty_messages.c:1763 gestio_pares.php:81
+#: gestio_pares.php:86 gestio_pares.php:91 gestio_profes.php:80
+#: recuperar_profes.php:74
+msgid "Yes"
+msgstr "Sí"
+
+#: smarty_messages.c:110 smarty_messages.c:119 smarty_messages.c:128
+#: smarty_messages.c:626 smarty_messages.c:635 smarty_messages.c:656
+#: smarty_messages.c:1130 smarty_messages.c:1442 smarty_messages.c:1448
+#: smarty_messages.c:1457 smarty_messages.c:1463 smarty_messages.c:1472
+#: smarty_messages.c:1598 smarty_messages.c:1766 gestio_pares.php:79
+#: gestio_pares.php:84 gestio_pares.php:89 gestio_profes.php:78
+#: recuperar_profes.php:72
+#, fuzzy
+msgid "No"
+msgstr "No"
+
+#: smarty_messages.c:113 smarty_messages.c:1451
+msgid "Wants MAIL: *"
+msgstr "Vol correu: *"
+
+#: smarty_messages.c:122 smarty_messages.c:1466
+msgid "Is a Father?: *"
+msgstr "És un pare?: *"
+
+#: smarty_messages.c:131 smarty_messages.c:380 smarty_messages.c:425
+#: smarty_messages.c:710 smarty_messages.c:1475 smarty_messages.c:1769
+#, fuzzy
+msgid "User: *"
+msgstr "Usuari: *"
+
+#: smarty_messages.c:134 smarty_messages.c:713 smarty_messages.c:1481
+#: smarty_messages.c:1772
+#, fuzzy
+msgid "Password: *"
+msgstr "Paraula de pas: *"
+
+#: smarty_messages.c:137 smarty_messages.c:716 smarty_messages.c:1484
+#: smarty_messages.c:1775
+msgid "Repeat password: *"
+msgstr "Repeteix la paraula de pas: *"
+
+#: smarty_messages.c:140 smarty_messages.c:392 smarty_messages.c:443
+#: smarty_messages.c:719 smarty_messages.c:1487 smarty_messages.c:1784
+msgid "Photo (2MB):"
+msgstr "Foto (2MB):"
+
+#: smarty_messages.c:143 smarty_messages.c:722 smarty_messages.c:749
+#: smarty_messages.c:1787
+#, fuzzy
+msgid "Insert"
+msgstr "Inserir"
+
+#: smarty_messages.c:146 smarty_messages.c:398 smarty_messages.c:449
+#: smarty_messages.c:725 smarty_messages.c:752 smarty_messages.c:914
+#: smarty_messages.c:1493 smarty_messages.c:1724 smarty_messages.c:1790
+#: smarty_messages.c:1871
+msgid "Reset"
+msgstr "Restablir"
+
+#: smarty_messages.c:149 smarty_messages.c:455 smarty_messages.c:485
+#: smarty_messages.c:665 smarty_messages.c:1394 smarty_messages.c:1499
+msgid "Write the initial date"
+msgstr "Escriu la data inicial"
+
+#: smarty_messages.c:152 smarty_messages.c:458 smarty_messages.c:488
+#: smarty_messages.c:668 smarty_messages.c:1397 smarty_messages.c:1502
+msgid "Write the end date"
+msgstr "Escriu la data final"
+
+#: smarty_messages.c:155 smarty_messages.c:1739
+msgid "Select the type of incident"
+msgstr "Selecciona el tipus d'incidència"
+
+#: smarty_messages.c:158 smarty_messages.c:332 smarty_messages.c:494
+#: smarty_messages.c:758 smarty_messages.c:1073 smarty_messages.c:1400
+#: smarty_messages.c:1505 smarty_messages.c:1730 smarty_messages.c:1742
+#: smarty_messages.c:1796 smarty_messages.c:1811
+#, fuzzy
+msgid "View report"
+msgstr "Veure"
+
+#: smarty_messages.c:161
+msgid "Tutorship Menu"
+msgstr "Menú de tutoria"
+
+#: smarty_messages.c:164
+msgid "Center Reports"
+msgstr "Informes de centre"
+
+#: smarty_messages.c:167
+msgid "Center incidents at d day and h hour"
+msgstr "Incidències del centre del dia d a l'hora  h"
+
+#: smarty_messages.c:170
+msgid "Center incidents between initial and final date"
+msgstr "Incidències del centre entre una data inicial i una  data final "
+
+#: smarty_messages.c:173
+msgid "Incidents ranking between initial and final date"
+msgstr ""
+"Rànquing incidències del centre entre una data inicial i una  data final "
+
+#: smarty_messages.c:176
+#, fuzzy
+msgid "Reports teachers"
+msgstr "Llista de professors"
+
+#: smarty_messages.c:179
+msgid "Reports group tutors"
+msgstr "Informe de tutors de grup"
+
+#: smarty_messages.c:182
+msgid "Mailing list of students"
+msgstr "Correus dels estudiants"
+
+#: smarty_messages.c:185
+msgid "Class Lists"
+msgstr "Llistes de classe"
+
+#: smarty_messages.c:188
+msgid "Group reports"
+msgstr "Informes de grup"
+
+#: smarty_messages.c:191
+msgid "Class list"
+msgstr "Llista de classe"
+
+#: smarty_messages.c:194
+#, fuzzy
+msgid "Sheet group"
+msgstr "Llençol amb fotos dels estudiants"
+
+#: smarty_messages.c:197
+msgid "Group incidents summary between initial and final date"
+msgstr ""
+"Resum d'incidències d'un grup entre una data inicial i una  data final "
+
+#: smarty_messages.c:200
+msgid "Monthly Summary of unjustified absences"
+msgstr "Informe mensual de faltes injustificades"
+
+#: smarty_messages.c:203
+msgid "Subject report"
+msgstr "Informes del crèdit "
+
+#: smarty_messages.c:206
+msgid "Subject incidents summary between initial and final date"
+msgstr ""
+"Resum d'incidències d'un credit entre una data inicial i una  data final "
+
+#: smarty_messages.c:209 smarty_messages.c:518
+msgid "Are you sure you want to recover the registry no. "
+msgstr "Estas segur que vols recuperar el número de registre?"
+
+#: smarty_messages.c:212 smarty_messages.c:521
+msgid "Are you sure you want to recover the selected registrys"
+msgstr "Estas segur que vols recuperar els registres seleccionats?"
+
+#: smarty_messages.c:215 smarty_messages.c:254
+msgid "Recover selected teachers"
+msgstr "Recuperar els professors seleccionats"
+
+#: smarty_messages.c:218 smarty_messages.c:257 smarty_messages.c:788
+#: smarty_messages.c:839
+msgid "Select all teachers"
+msgstr "Selecciona tots els professors"
+
+#: smarty_messages.c:221 smarty_messages.c:260 smarty_messages.c:791
+#: smarty_messages.c:842
+msgid "Deselect all teachers"
+msgstr "Deselecciona tots els professors"
+
+#: smarty_messages.c:224 smarty_messages.c:794
+msgid "List of teachers at the  school."
+msgstr "Llista de professors del centre"
+
+#: smarty_messages.c:230 smarty_messages.c:800 smarty_messages.c:1022
+msgid " Name "
+msgstr " Nom "
+
+#: smarty_messages.c:233 smarty_messages.c:803
+msgid " Surnames "
+msgstr " Cognoms "
+
+#: smarty_messages.c:236 smarty_messages.c:806
+msgid " Teacher's Email "
+msgstr " Correu electrònic del professor"
+
+#: smarty_messages.c:239 smarty_messages.c:566 smarty_messages.c:809
+#: smarty_messages.c:1664
+#, fuzzy
+msgid " User "
+msgstr " Usuari "
+
+#: smarty_messages.c:242 smarty_messages.c:812
+msgid " Coordinator "
+msgstr " Coordinador "
+
+#: smarty_messages.c:245 smarty_messages.c:815
+msgid " Department "
+msgstr " Departament "
+
+#: smarty_messages.c:248 smarty_messages.c:818
+msgid " Position "
+msgstr " Posició"
+
+#: smarty_messages.c:251
+msgid "Recover Teacher"
+msgstr " Recuperar professor"
+
+#: smarty_messages.c:263 smarty_messages.c:497 smarty_messages.c:1370
+msgid "Choose date (dd-mm-aaaa format):"
+msgstr "Escull la data (format dd-mm-aaa):"
+
+#: smarty_messages.c:266 smarty_messages.c:500 smarty_messages.c:1373
+msgid "Change"
+msgstr "Canvia"
+
+#: smarty_messages.c:269 smarty_messages.c:284 smarty_messages.c:515
+#: smarty_messages.c:662 smarty_messages.c:971 smarty_messages.c:1136
+#: smarty_messages.c:1160 smarty_messages.c:1202 smarty_messages.c:1532
+#: smarty_messages.c:1604
+msgid "Return"
+msgstr "Torna"
+
+#: smarty_messages.c:272 smarty_messages.c:503 smarty_messages.c:1148
+#: smarty_messages.c:1379 includes/common-header.php:91
+msgid "Check Attendance"
+msgstr "Passar llista"
+
+#: smarty_messages.c:275 smarty_messages.c:506 smarty_messages.c:1151
+#: smarty_messages.c:1382 smarty_messages.c:1703
+msgid "Group"
+msgstr "Grup"
+
+#: smarty_messages.c:278 smarty_messages.c:509 smarty_messages.c:1154
+#: StudentManagment.php:118
+msgid "students"
+msgstr "Alumne"
+
+#: smarty_messages.c:281 smarty_messages.c:512 smarty_messages.c:1157
+msgid "Date"
+msgstr "Data"
+
+#: smarty_messages.c:287 smarty_messages.c:1385 selecgroup.php:75
+msgid "Select group:"
+msgstr "Selecciona el grup:"
+
+#: smarty_messages.c:290
+#, fuzzy
+msgid "Select month:"
+msgstr "Selecciona el grup:"
+
+#: smarty_messages.c:293
+#, fuzzy
+msgid "January"
+msgstr "gener"
+
+#: smarty_messages.c:296
+msgid "February"
+msgstr "febrer"
+
+#: smarty_messages.c:299
+#, fuzzy
+msgid "March"
+msgstr "març"
+
+#: smarty_messages.c:302
+#, fuzzy
+msgid "April"
+msgstr "abr."
+
+#: smarty_messages.c:305 javascript/calendar.php:147
+msgid "May"
+msgstr "maig"
+
+#: smarty_messages.c:308
+#, fuzzy
+msgid "June"
+msgstr "juny"
+
+#: smarty_messages.c:311
+#, fuzzy
+msgid "July"
+msgstr "juliol"
+
+#: smarty_messages.c:314
+#, fuzzy
+msgid "August"
+msgstr "agost"
+
+#: smarty_messages.c:317
+msgid "September"
+msgstr "setembre"
+
+#: smarty_messages.c:320
+#, fuzzy
+msgid "October"
+msgstr "octubre"
+
+#: smarty_messages.c:323
+msgid "November"
+msgstr "novembre"
+
+#: smarty_messages.c:326
+msgid "December"
+msgstr "desembre"
+
+#: smarty_messages.c:329
+#, fuzzy
+msgid "Select year:"
+msgstr "Selecciona el grup:"
+
+#: smarty_messages.c:335 smarty_messages.c:761 smarty_messages.c:863
+#: smarty_messages.c:893 smarty_messages.c:896 smarty_messages.c:920
+#: smarty_messages.c:1700 smarty_messages.c:1838
+#, fuzzy
+msgid "Student"
+msgstr "Estudiant"
+
+#: smarty_messages.c:338 smarty_messages.c:923 smarty_messages.c:1841
+#, fuzzy
+msgid "Total Incidents"
+msgstr "Estudiants potencials"
+
+#: smarty_messages.c:341 smarty_messages.c:767 smarty_messages.c:875
+#: smarty_messages.c:926 smarty_messages.c:1709 smarty_messages.c:1844
+msgid "View report in pdf"
+msgstr "Veure el informe en pdf"
+
+#: smarty_messages.c:344 smarty_messages.c:347 smarty_messages.c:401
+#: smarty_messages.c:404 smarty_messages.c:1403 smarty_messages.c:1406
+msgid "Profile photo"
+msgstr "Foto del perfil"
+
+#: smarty_messages.c:371 smarty_messages.c:701
+msgid "Telephone:"
+msgstr "Telèfon"
+
+#: smarty_messages.c:377 smarty_messages.c:707
+msgid "Born Date:*"
+msgstr "Data de naixement:*"
+
+#: smarty_messages.c:383 smarty_messages.c:428 smarty_messages.c:1478
+#, fuzzy
+msgid "Old Password: *"
+msgstr "Paraula de pas antiga: *"
+
+#: smarty_messages.c:386 smarty_messages.c:431
+#, fuzzy
+msgid "New Password: *"
+msgstr "Paraula de pas nova: *"
+
+#: smarty_messages.c:389 smarty_messages.c:434
+msgid "Repeat New Password: *"
+msgstr "Repeteix la nova paraula de pas: *"
+
+#: smarty_messages.c:395 smarty_messages.c:446 smarty_messages.c:968
+#: smarty_messages.c:1199 smarty_messages.c:1490 smarty_messages.c:1529
+#: smarty_messages.c:1868
+msgid "Modify"
+msgstr "Modificar"
+
+#: smarty_messages.c:410 smarty_messages.c:731 smarty_messages.c:1748
+#: smarty_messages.c:1850
+msgid "Name: *"
+msgstr "Nom: *"
+
+#: smarty_messages.c:419 smarty_messages.c:1757
+msgid "Email: *"
+msgstr "Correu electrònic: *"
+
+#: smarty_messages.c:422 smarty_messages.c:1760
+msgid "Is a coordinator: *"
+msgstr "És coordinador?: *"
+
+#: smarty_messages.c:437 smarty_messages.c:1778
+msgid "Department: "
+msgstr "Departament: "
+
+#: smarty_messages.c:440
+msgid "Position: "
+msgstr "Posició: "
+
+#: smarty_messages.c:452
+#, fuzzy
+msgid "New identifacation"
+msgstr "Identificació de l'usuari/a"
+
+#: smarty_messages.c:461 smarty_messages.c:671
+msgid "Select the fields you want displayed"
+msgstr "Selecciona els camps que voleu mostrar"
+
+#: smarty_messages.c:464
+msgid "Codi incidència"
+msgstr "Codi incidència"
+
+#: smarty_messages.c:467
+msgid "Adreça electronica destinatari"
+msgstr "Adreça electronica destinatari"
+
+#: smarty_messages.c:470
+msgid "Data incidencia"
+msgstr "Data incidencia"
+
+#: smarty_messages.c:473
+msgid "Alumne"
+msgstr "Alumne"
+
+#: smarty_messages.c:476
+msgid "Motiu"
+msgstr "Motiu"
+
+#: smarty_messages.c:479 smarty_messages.c:674
+msgid "Show the history of the telephon number"
+msgstr "Mostra el historial de número de telèfon"
+
+#: smarty_messages.c:482 smarty_messages.c:677
+msgid "View SMS"
+msgstr "veure SMS"
+
+#: smarty_messages.c:491
+msgid "Top"
+msgstr "Número d'estudiants a mostrar"
+
+#: smarty_messages.c:524 smarty_messages.c:572
+msgid "Recover selected students"
+msgstr "Recuperar els estudiants seleccionats"
+
+#: smarty_messages.c:527 smarty_messages.c:575
+msgid "Select all unsuscribed students"
+msgstr "Selecciona tots els estudiants no subscrits"
+
+#: smarty_messages.c:530 smarty_messages.c:578
+msgid "Deselect all unsuscribed students"
+msgstr "Deselecciona tots els estudiants no subscrits"
+
+#: smarty_messages.c:533
+msgid "Recover unsuscribed students."
+msgstr "Recupera als estudiants no subscrits"
+
+#: smarty_messages.c:554
+msgid " Telphone "
+msgstr " Telèfon "
+
+#: smarty_messages.c:557
+msgid " Mobile phone "
+msgstr " Telèfon mòbil"
+
+#: smarty_messages.c:560 smarty_messages.c:1658
+msgid " Date Of Birth"
+msgstr " Data de naixement"
+
+#: smarty_messages.c:563 smarty_messages.c:1661
+#, fuzzy
+msgid " Add Date"
+msgstr " Afegir data"
+
+#: smarty_messages.c:569
+msgid "Recover Student"
+msgstr "Recuperar estudiant"
+
+#: smarty_messages.c:581 smarty_messages.c:1076 smarty_messages.c:1535
+msgid "Are you sure you want to modify this registry."
+msgstr "Estas segur que vols modificar el registre"
+
+#: smarty_messages.c:584 smarty_messages.c:1079 smarty_messages.c:1538
+msgid "Successfully modified."
+msgstr "Modificat correctament."
+
+#: smarty_messages.c:587 smarty_messages.c:1082 smarty_messages.c:1541
+msgid "No changes have been made."
+msgstr "No s'ha realitzat cap canvi."
+
+#: smarty_messages.c:590 smarty_messages.c:1163
+msgid "Father profile"
+msgstr "Pèrfil de pare"
+
+#: smarty_messages.c:593 smarty_messages.c:935 smarty_messages.c:1088
+#: smarty_messages.c:1166 smarty_messages.c:1511
+msgid "Code"
+msgstr "Codi"
+
+#: smarty_messages.c:596 smarty_messages.c:1091 smarty_messages.c:1550
+msgid "*Name"
+msgstr "*Nom"
+
+#: smarty_messages.c:599 smarty_messages.c:1553
+msgid "*Address"
+msgstr "*Adreça"
+
+#: smarty_messages.c:602 smarty_messages.c:1556
+msgid "*Postcode"
+msgstr "*Codi Postal"
+
+#: smarty_messages.c:605 smarty_messages.c:1559
+msgid "*City"
+msgstr "*Ciutat"
+
+#: smarty_messages.c:608 smarty_messages.c:905 smarty_messages.c:962
+#: smarty_messages.c:1100 smarty_messages.c:1181 smarty_messages.c:1523
+#: smarty_messages.c:1571 smarty_messages.c:1715
+msgid "User"
+msgstr "Usuari"
+
+#: smarty_messages.c:611 smarty_messages.c:1103 smarty_messages.c:1574
+#, fuzzy
+msgid "Old password"
+msgstr "Paraula de pas"
+
+#: smarty_messages.c:614 smarty_messages.c:1106 smarty_messages.c:1577
+#, fuzzy
+msgid "New password"
+msgstr "Paraula de pas"
+
+#: smarty_messages.c:617 smarty_messages.c:1109 smarty_messages.c:1580
+msgid "Repite new password"
+msgstr "Repetir la paraula de pas"
+
+#: smarty_messages.c:620 smarty_messages.c:1193
+msgid "Receive EMAIL"
+msgstr "Rebre correu electrònic"
+
+#: smarty_messages.c:629 smarty_messages.c:1190
+msgid "Receive SMS"
+msgstr "Rebre SMS"
+
+#: smarty_messages.c:638 smarty_messages.c:959 smarty_messages.c:1112
+#: smarty_messages.c:1184 smarty_messages.c:1526 smarty_messages.c:1568
+#: smarty_messages.c:1718
+msgid "Email"
+msgstr "Correu electrònic"
+
+#: smarty_messages.c:641 smarty_messages.c:956 smarty_messages.c:1187
+#: smarty_messages.c:1562
+msgid "Mobile phone"
+msgstr "Telèfon mòbil"
+
+#: smarty_messages.c:644 smarty_messages.c:1196
+msgid "Is father"
+msgstr "És pare"
+
+#: smarty_messages.c:647 smarty_messages.c:1121
+msgid "Photo"
+msgstr "Foto"
+
+#: smarty_messages.c:650 smarty_messages.c:1124 smarty_messages.c:1592
+#, fuzzy
+msgid "Delete photo"
+msgstr "Esborrar foto"
+
+#: smarty_messages.c:659 smarty_messages.c:911 smarty_messages.c:1133
+#: smarty_messages.c:1601 smarty_messages.c:1721
+msgid "Send"
+msgstr "Enviar"
+
+#: smarty_messages.c:728 smarty_messages.c:1847
+msgid "Group Code: *"
+msgstr "Codi de grup: *"
+
+#: smarty_messages.c:734 smarty_messages.c:1853
+msgid "Educational Level: *"
+msgstr "Nivell educatiu: *"
+
+#: smarty_messages.c:737 smarty_messages.c:1856
+msgid "Grade:"
+msgstr "Grau:"
+
+#: smarty_messages.c:740 smarty_messages.c:1859
+msgid "Description:"
+msgstr "Descripció:"
+
+#: smarty_messages.c:743 smarty_messages.c:1862
+#, fuzzy
+msgid "Tutor: "
+msgstr "Tutor: "
+
+#: smarty_messages.c:746 smarty_messages.c:1865
+msgid "Class without tutor"
+msgstr "Classe sense tutor"
+
+#: smarty_messages.c:755 smarty_messages.c:1070 smarty_messages.c:1496
+#: smarty_messages.c:1727 smarty_messages.c:1793
+#, fuzzy
+msgid "Select group"
+msgstr "Selecciona el grup"
+
+#: smarty_messages.c:764
+msgid "Fouls unjustified"
+msgstr "Faltes injustificades"
+
+#: smarty_messages.c:779 smarty_messages.c:830
+msgid "Add a teacher"
+msgstr "Afegir un pare"
+
+#: smarty_messages.c:782 smarty_messages.c:833
+msgid "Recover unsuscribed teachers"
+msgstr "Recuperar professors no subscrits"
+
+#: smarty_messages.c:785 smarty_messages.c:836
+msgid "Delete selected teachers"
+msgstr "Esborrar els pares seleccionats"
+
+#: smarty_messages.c:821
+#, fuzzy
+msgid "Delete Teacher"
+msgstr "Esborrar professor"
+
+#: smarty_messages.c:824
+msgid "Unsubscribe Teachers"
+msgstr "Desinscriure professors"
+
+#: smarty_messages.c:827
+msgid "Modify Teachers"
+msgstr "Modificar professors"
+
+#: smarty_messages.c:845 smarty_messages.c:1814
+msgid "Selected incidents"
+msgstr "Incidències seleccionades"
+
+#: smarty_messages.c:848 smarty_messages.c:1817
+msgid "Unjustified foul"
+msgstr "Falta injustificada"
+
+#: smarty_messages.c:851 smarty_messages.c:1820
+msgid "Justified foul"
+msgstr "Falta justificada"
+
+#: smarty_messages.c:854 smarty_messages.c:1823
+msgid "Unjustified delay"
+msgstr "Retard injustificat"
+
+#: smarty_messages.c:857 smarty_messages.c:1826
+msgid "Justified delay"
+msgstr "Retard justificat"
+
+#: smarty_messages.c:860 smarty_messages.c:1829 selec_estadistiques.php:454
+msgid "Expulsion"
+msgstr "Expulsió"
+
+#: smarty_messages.c:866
+msgid "Incidence"
+msgstr "Incidència"
+
+#: smarty_messages.c:869
+#, fuzzy
+msgid "Subject"
+msgstr "Crèdit/Mòdul"
+
+#: smarty_messages.c:872 smarty_messages.c:887 smarty_messages.c:890
+#, fuzzy
+msgid "Teacher"
+msgstr "Professor"
+
+#: smarty_messages.c:878
+msgid ""
+"There is no incidence to this day\n"
+"at this time"
+msgstr ""
+"No hi ha cap incidència per aquest dia\n"
+"a aquesta hora"
+
+#: smarty_messages.c:881
+msgid "User autentication"
+msgstr "Identificació de l'usuari/a"
+
+#: smarty_messages.c:884
+msgid "Role"
+msgstr "Rol"
+
+#: smarty_messages.c:899 smarty_messages.c:902
+#, fuzzy
+msgid "Father"
+msgstr "Pare"
+
+#: smarty_messages.c:908
+msgid "Password"
+msgstr "Paraula de pas"
+
+#: smarty_messages.c:917
+msgid "I forget my password"
+msgstr "He oblidat la meva paraula de pas"
+
+#: smarty_messages.c:929
+msgid "Communicated to parents"
+msgstr "Comunicat als pares"
+
+#: smarty_messages.c:932 smarty_messages.c:1544
+msgid "Student profile"
+msgstr "Perfil de l'estudiant"
+
+#: smarty_messages.c:938
+msgid "DNI"
+msgstr "DNI"
+
+#: smarty_messages.c:941 smarty_messages.c:1169 smarty_messages.c:1514
+msgid "Name"
+msgstr "Nom"
+
+#: smarty_messages.c:944
+msgid "Surames"
+msgstr "Cognoms"
+
+#: smarty_messages.c:947
+#, fuzzy
+msgid "Gender"
+msgstr "Sexe"
+
+#: smarty_messages.c:950 smarty_messages.c:1172
+#, fuzzy
+msgid "Address"
+msgstr "Adreça"
+
+#: smarty_messages.c:953 smarty_messages.c:1565
+msgid "Fixed telephone"
+msgstr "Telèfon fix"
+
+#: smarty_messages.c:965
+msgid "Web Page"
+msgstr "Pàgina web"
+
+#: smarty_messages.c:974
+msgid "Administration Menu"
+msgstr "Menu d'administració"
+
+#: smarty_messages.c:977 includes/common-header.php:96
+msgid "Tutorship"
+msgstr "Tutoria"
+
+#: smarty_messages.c:980 selec_estadistiques.php:79
+#, fuzzy
+msgid "Students"
+msgstr "Alumnes"
+
+#: smarty_messages.c:983 smarty_messages.c:1256 smarty_messages.c:1271
+#: smarty_messages.c:1286 smarty_messages.c:1301 smarty_messages.c:1316
+#: smarty_messages.c:1346 selec_estadistiques.php:80
+#: selec_estadistiques.php:172
+msgid "Teachers"
+msgstr "Professors"
+
+#: smarty_messages.c:986
+#, fuzzy
+msgid "Groups"
+msgstr "Grups"
+
+#: smarty_messages.c:989
+msgid "Fathers"
+msgstr "Pares"
+
+#: smarty_messages.c:992
+msgid "SMS History"
+msgstr "Historial de SMS"
+
+#: smarty_messages.c:995
+msgid "E-Mail History"
+msgstr "Historial de correus electrònics"
+
+#: smarty_messages.c:1004 smarty_messages.c:1043
+msgid "Add a group"
+msgstr "Afegir un grup"
+
+#: smarty_messages.c:1007 smarty_messages.c:1046
+#, fuzzy
+msgid "Delete selected groups"
+msgstr "Esborra grups seleccionats:"
+
+#: smarty_messages.c:1010 smarty_messages.c:1049
+#, fuzzy
+msgid "Select all groups"
+msgstr "Selecciona tots els grups"
+
+#: smarty_messages.c:1013 smarty_messages.c:1052
+#, fuzzy
+msgid "Deselect all groups"
+msgstr "Deselecciona tots els grups"
+
+#: smarty_messages.c:1016
+msgid "List of groups at the school."
+msgstr "Llista de grups del centre"
+
+#: smarty_messages.c:1025
+msgid " Educational Level "
+msgstr " Nivell Educatiu "
+
+#: smarty_messages.c:1028
+msgid " Grade "
+msgstr " Greau "
+
+#: smarty_messages.c:1031
+msgid " Description "
+msgstr " Descripció "
+
+#: smarty_messages.c:1034
+#, fuzzy
+msgid " Tutor "
+msgstr " Tutor "
+
+#: smarty_messages.c:1037
+#, fuzzy
+msgid "Delete Group"
+msgstr "Esborrar el grup"
+
+#: smarty_messages.c:1040
+msgid "Modify Group"
+msgstr "Modifica el grup"
+
+#: smarty_messages.c:1055
+msgid "Comparison of number of students, teachers and parents"
+msgstr "Comparativa entre número d'estudiants, professors i pares/mares"
+
+#: smarty_messages.c:1058
+msgid "Statistics of Students"
+msgstr "Estadístiques dels estudiants"
+
+#: smarty_messages.c:1061
+msgid "Statistics of Parents"
+msgstr "Estadístiques dels pares/mares"
+
+#: smarty_messages.c:1064
+msgid "Statistics of Teachers"
+msgstr "stadístiques dels profes"
+
+#: smarty_messages.c:1067
+msgid "Select the child you want to get statistics"
+msgstr "Selecciona el fill del que desitges veure estadístiques"
+
+#: smarty_messages.c:1085 smarty_messages.c:1508
+msgid "Teacher profile"
+msgstr "Perfil de professor"
+
+#: smarty_messages.c:1094
+msgid "*Surname1"
+msgstr "*Cognom1"
+
+#: smarty_messages.c:1097 smarty_messages.c:1520
+msgid "Surname2"
+msgstr "Cognom2"
+
+#: smarty_messages.c:1115 smarty_messages.c:1586
+msgid "Data alta"
+msgstr "Data d'alta"
+
+#: smarty_messages.c:1118
+msgid "He is a coordinator"
+msgstr "És coordinador"
+
+#: smarty_messages.c:1139
+msgid "List of all students in this group (with photo)"
+msgstr "Llista dels estudiants del grup (amb foto)"
+
+#: smarty_messages.c:1142
+msgid "List of all students in this group (without photo)"
+msgstr "Llista dels estudiants del grup (sense foto)"
+
+#: smarty_messages.c:1145
+msgid "Sheet of this group of students"
+msgstr "Llençol amb les fotos dels estudiants"
+
+#: smarty_messages.c:1175
+msgid "Postcode"
+msgstr "Codi Postal"
+
+#: smarty_messages.c:1178
+msgid "City"
+msgstr "Ciutat"
+
+#: smarty_messages.c:1205
+msgid "MONTH"
+msgstr "Més"
+
+#: smarty_messages.c:1208
+msgid "EA"
+msgstr "FJ"
+
+#: smarty_messages.c:1211
+msgid "UA"
+msgstr "FI"
+
+#: smarty_messages.c:1214
+msgid "D"
+msgstr "R"
+
+#: smarty_messages.c:1217
+msgid "JD"
+msgstr "RJ"
+
+#: smarty_messages.c:1220
+msgid "E"
+msgstr "E"
+
+#: smarty_messages.c:1223
+msgid "TF"
+msgstr "FT"
+
+#: smarty_messages.c:1226
+msgid " UA: Unexcused absences"
+msgstr " FI: Faltes injustificades"
+
+#: smarty_messages.c:1229
+msgid " EA: Excused absences"
+msgstr " FJ: Faltes justificades"
+
+#: smarty_messages.c:1232
+msgid " D:  Delay"
+msgstr " R: Retard"
+
+#: smarty_messages.c:1235
+msgid " JD: Justify delay"
+msgstr " RJ: Retard justificat"
+
+#: smarty_messages.c:1238
+msgid " E:  Expulsion"
+msgstr " E: Expulsió"
+
+#: smarty_messages.c:1241
+msgid " TF: Total Faults"
+msgstr " FT: Faltes totals"
+
+#: smarty_messages.c:1244 smarty_messages.c:1247
+msgid "Search"
+msgstr "Cerca"
+
+#: smarty_messages.c:1250 smarty_messages.c:1340
+msgid "Survey id: "
+msgstr "Número d'enquesta"
+
+#: smarty_messages.c:1253 smarty_messages.c:1343
+#, fuzzy
+msgid "Intended group: "
+msgstr "Grup:"
+
+#: smarty_messages.c:1259 smarty_messages.c:1274 smarty_messages.c:1289
+#: smarty_messages.c:1304 smarty_messages.c:1319 smarty_messages.c:1349
+msgid "Alumns"
+msgstr "Alumnes"
+
+#: smarty_messages.c:1262 smarty_messages.c:1277 smarty_messages.c:1292
+#: smarty_messages.c:1307 smarty_messages.c:1322 smarty_messages.c:1352
+#: selec_estadistiques.php:81 selec_estadistiques.php:154
+msgid "Parents"
+msgstr "Pares"
+
+#: smarty_messages.c:1265 smarty_messages.c:1280 smarty_messages.c:1295
+#: smarty_messages.c:1310 smarty_messages.c:1325 smarty_messages.c:1355
+msgid "Administrative and service staff"
+msgstr "Personal administratiu i de serveis"
+
+#: smarty_messages.c:1268 smarty_messages.c:1283 smarty_messages.c:1298
+#: smarty_messages.c:1313 smarty_messages.c:1328 smarty_messages.c:1358
+msgid "New teachers"
+msgstr "Nous professors"
+
+#: smarty_messages.c:1331 smarty_messages.c:1361
+msgid "Beginning date: "
+msgstr "Data d'inici: "
+
+#: smarty_messages.c:1334 smarty_messages.c:1364
+msgid "End date: "
+msgstr "Data final: "
+
+#: smarty_messages.c:1337
+msgid "Modify survey"
+msgstr "Modifica l'enquesta"
+
+#: smarty_messages.c:1367
+msgid "Add survey"
+msgstr "Afegeix una enquesta"
+
+#: smarty_messages.c:1376
+msgid "Today"
+msgstr "Avui"
+
+#: smarty_messages.c:1388
+msgid "Credit"
+msgstr "Crèdit"
+
+#: smarty_messages.c:1391
+#, fuzzy
+msgid "Select credit:"
+msgstr "Selecciona el crèdit:"
+
+#: smarty_messages.c:1517
+msgid "Surname1"
+msgstr "Cognom1"
+
+#: smarty_messages.c:1547
+msgid "*Code"
+msgstr "*Codi"
+
+#: smarty_messages.c:1583
+msgid "*Birthday"
+msgstr "*Data de naixement"
+
+#: smarty_messages.c:1589
+msgid "photo"
+msgstr "foto"
+
+#: smarty_messages.c:1616 smarty_messages.c:1676
+#, fuzzy
+msgid "Add a student"
+msgstr "Afegeix un estudiant"
+
+#: smarty_messages.c:1619 smarty_messages.c:1679
+msgid "Recover unsuscribed students"
+msgstr "Recuperar estudiants no subscrits"
+
+#: smarty_messages.c:1622 smarty_messages.c:1682
+msgid "Delete selected students"
+msgstr "Esborra estudiants seleccionats"
+
+#: smarty_messages.c:1625 smarty_messages.c:1685
+#, fuzzy
+msgid "Select all students"
+msgstr "Selecciona tots els estudiants"
+
+#: smarty_messages.c:1628 smarty_messages.c:1688
+#, fuzzy
+msgid "Deselect all students"
+msgstr "Deselecciona tots els estudiants"
+
+#: smarty_messages.c:1631
+msgid "List of students at the  school."
+msgstr "Llista d'estudiants del centre"
+
+#: smarty_messages.c:1652
+msgid " Telephone "
+msgstr " Telèfon "
+
+#: smarty_messages.c:1655
+msgid " Mobile Phone "
+msgstr " Telèfon mòbil"
+
+#: smarty_messages.c:1670
+msgid "Unsubscribe Student"
+msgstr "Desinscriure l'alumne"
+
+#: smarty_messages.c:1691 smarty_messages.c:1832
+msgid "Ranking incident center between"
+msgstr "Ranking d'incidències entre..."
+
+#: smarty_messages.c:1694 smarty_messages.c:1835
+#, fuzzy
+msgid "and"
+msgstr "i"
+
+#: smarty_messages.c:1697
+msgid "Position"
+msgstr "Posició"
+
+#: smarty_messages.c:1706
+msgid "Total fouls not justified"
+msgstr "Total de faltes no justificades"
+
+#: smarty_messages.c:1712
+#, fuzzy
+msgid "Lost password"
+msgstr "Paraula de pas perduda"
+
+#: smarty_messages.c:1733
+msgid "Write date"
+msgstr "Escriure la data"
+
+#: smarty_messages.c:1736
+msgid "Select the time"
+msgstr "Selecciona l'hora"
+
+#: smarty_messages.c:1781
+msgid "Position: *"
+msgstr "Posició: *"
+
+#: smarty_messages.c:1799
+#, fuzzy
+msgid "Select an option"
+msgstr "Selecciona una opció"
+
+#: smarty_messages.c:1802
+msgid "Personal accounts"
+msgstr "Correus electrònics personals"
+
+#: smarty_messages.c:1805
+#, fuzzy
+msgid "Center accounts"
+msgstr "Correus electrònics del centre"
+
+#: smarty_messages.c:1808
+msgid "Booth accounts"
+msgstr "Tots dos tipus"
+
+#: esborrar_alumne.php:42 esborrar_alumne.php:61
+msgid "Successfully deleted the student no."
+msgstr "S'ha esborrat correctament l'estudiant núm."
+
+#: esborrar_alumne.php:43 esborrar_alumne.php:62
+msgid " students successfully deleted"
+msgstr " studiants esborrats correctament"
+
+#: esborrar_alumne.php:44 esborrar_alumne.php:49 esborrar_alumne.php:63
+#: esborrar_alumne.php:67 esborrar_alumne.php:72 esborrar_logic_alumne.php:44
+#: esborrar_logic_alumne.php:49 esborrar_logic_alumne.php:63
+#: esborrar_logic_alumne.php:67 esborrar_logic_alumne.php:72
+#: inserir_alumne_BD.php:260 inserir_alumne_BD.php:264
+#: inserir_profe_BD.php:265 modifica_alumne_BD.php:278
+#: modifica_alumne_BD.php:282 modifica_alumne_BD.php:286
+#: modifica_profe_BD.php:284 modifica_profe_BD.php:288
+#: recupera_alumne_BD.php:44 recupera_alumne_BD.php:49
+#: recupera_alumne_BD.php:63 recupera_alumne_BD.php:67
+#: recupera_alumne_BD.php:72
+msgid ""
+"Here you will be redirected in 5 seconds to student's management page..."
+msgstr ""
+"Seràs redireccionat en 5 segons a la pàgina de gestió d'estudiants..."
+
+#: esborrar_alumne.php:47 esborrar_alumne.php:65 esborrar_logic_alumne.php:47
+#: esborrar_logic_alumne.php:65
+msgid "Unable to successfully remove the student no. "
+msgstr "No s'ha pogut esborrar l'estudiant amb núm."
+
+#: esborrar_alumne.php:48 esborrar_alumne.php:66 esborrar_grup.php:47
+#: esborrar_grup.php:65 esborrar_logic_alumne.php:48
+#: esborrar_logic_alumne.php:66 esborrar_logic_profe.php:48
+#: esborrar_logic_profe.php:67 esborrar_pare.php:48 esborrar_pare.php:67
+#: esborrar_professor.php:47 esborrar_professor.php:66
+#, fuzzy
+msgid "Error: not deleted  "
+msgstr "Error: no esborrat  "
+
+#: esborrar_alumne.php:48 esborrar_alumne.php:66 esborrar_logic_alumne.php:48
+#: esborrar_logic_alumne.php:66 recupera_alumne_BD.php:48
+#: recupera_alumne_BD.php:66
+#, fuzzy
+msgid " students."
+msgstr " alumnes. "
+
+#: esborrar_alumne.php:70 esborrar_grup.php:69 esborrar_logic_alumne.php:70
+#: esborrar_logic_profe.php:71 esborrar_pare.php:71 esborrar_professor.php:70
+#: recupera_alumne_BD.php:70 recupera_professor_BD.php:70
+msgid "You have not selected any registration"
+msgstr "No has seleccionat cap registre"
+
+#: esborrar_alumne.php:71 esborrar_grup.php:70 esborrar_logic_alumne.php:71
+#: esborrar_logic_profe.php:72 esborrar_pare.php:72 esborrar_professor.php:71
+#: recupera_alumne_BD.php:71 recupera_professor_BD.php:71
+msgid "TODO"
+msgstr "TODO"
+
+#: esborrar_grup.php:42
+msgid "Successfully deleted the group no. "
+msgstr "S'ha esborrat correctament el grup núm."
+
+#: esborrar_grup.php:43 esborrar_grup.php:61
+msgid " groups successfully deleted"
+msgstr " grups esborrats correctament"
+
+#: esborrar_grup.php:44 esborrar_grup.php:48 esborrar_grup.php:62
+#: esborrar_grup.php:66 esborrar_grup.php:71
+msgid "Here you will be redirected in 5 seconds to groups management page..."
+msgstr "Seràs redireccionat en 5 segons a la gestió de grups "
+
+#: esborrar_grup.php:46
+msgid "Unable to successfully remove the groups no. "
+msgstr "No s'ha pogut esborrar el grup núm. "
+
+#: esborrar_grup.php:47 esborrar_grup.php:65
+#, fuzzy
+msgid " groups."
+msgstr " grups."
+
+#: esborrar_grup.php:60
+msgid "Successfully deleted the group no."
+msgstr "S'ha esborrat correctament el grup núm. "
+
+#: esborrar_grup.php:64
+msgid "Unable to successfully remove the group no. "
+msgstr "No s'ha pogut esborrar correctament el grup núm."
+
+#: esborrar_logic_alumne.php:42 esborrar_logic_alumne.php:61
+msgid "Successfully logic deleted the student no."
+msgstr "S'ha donat de baixa lògica l'estudiant núm."
+
+#: esborrar_logic_alumne.php:43
+msgid " students successfully logic deleted"
+msgstr " estudiants donats de baixa lògicament"
+
+#: esborrar_logic_alumne.php:62
+msgid " students successfully logic delete"
+msgstr " estudiants donats de baixa lògicament"
+
+#: esborrar_logic_profe.php:42 esborrar_logic_profe.php:62
+msgid "Successfully logic deleted the teacher no."
+msgstr "S'ha donat de baixa correctament el professor núm."
+
+#: esborrar_logic_profe.php:43
+msgid " teachers successfully logic deleted"
+msgstr " s'ha donat de baixa correctament el professors"
+
+#: esborrar_logic_profe.php:44 esborrar_logic_profe.php:49
+#: esborrar_logic_profe.php:64 esborrar_logic_profe.php:68
+#: esborrar_logic_profe.php:73 esborrar_professor.php:44
+#: esborrar_professor.php:48 esborrar_professor.php:63
+#: esborrar_professor.php:67 esborrar_professor.php:72
+#: recupera_professor_BD.php:44 recupera_professor_BD.php:48
+#: recupera_professor_BD.php:63 recupera_professor_BD.php:67
+#: recupera_professor_BD.php:72
+msgid ""
+"Here you will be redirected in 5 seconds to teacher's management page..."
+msgstr ""
+
+#: esborrar_logic_profe.php:47 esborrar_logic_profe.php:66
+#: esborrar_professor.php:46 esborrar_professor.php:65
+msgid "Unable to successfully remove the teacher no. "
+msgstr "No s'ha pogut esborrar el professor núm."
+
+#: esborrar_logic_profe.php:48 esborrar_logic_profe.php:67
+#: esborrar_professor.php:47 esborrar_professor.php:66
+#: recupera_professor_BD.php:47 recupera_professor_BD.php:66
+msgid " teachers."
+msgstr " professors."
+
+#: esborrar_logic_profe.php:63
+msgid " teachers successfully logic delete"
+msgstr " professors esborrats lògicament"
+
+#: esborrar_pare.php:42 esborrar_pare.php:62
+msgid "Successfully deleted the father no."
+msgstr "S'ha esborrat correctament el pare/mare núm."
+
+#: esborrar_pare.php:43
+msgid " fathers successfully deleted"
+msgstr " pares/mares esborrats correctament"
+
+#: esborrar_pare.php:44 esborrar_pare.php:49 esborrar_pare.php:64
+#: esborrar_pare.php:68 esborrar_pare.php:73 inserir_pare_BD.php:260
+#: inserir_pare_BD.php:264 modifica_pare_BD.php:280 modifica_pare_BD.php:284
+#: modifica_pare_BD.php:288
+msgid "Here you will be redirected in 5 seconds to father's management page..."
+msgstr ""
+
+#: esborrar_pare.php:47 esborrar_pare.php:66
+msgid "Unable to successfully remove the father no. "
+msgstr ""
+
+#: esborrar_pare.php:48 esborrar_pare.php:67
+msgid " fathers."
+msgstr ""
+
+#: esborrar_pare.php:63
+msgid " father successfully deleted"
+msgstr ""
+
+#: esborrar_professor.php:42 esborrar_professor.php:61
+msgid "Successfully deleted the teacher no."
+msgstr ""
+
+#: esborrar_professor.php:43 esborrar_professor.php:62
+msgid " teachers successfully deleted"
+msgstr ""
+
+#: inserir_alumne_BD.php:23 modifica_alumne_BD.php:24
+#, fuzzy
+msgid "student_"
+msgstr "alumne_"
+
+#: inserir_alumne_BD.php:37 inserir_alumne_BD.php:203 inserir_pare_BD.php:37
+#: inserir_pare_BD.php:203 inserir_profe_BD.php:38 inserir_profe_BD.php:204
+#: modifica_alumne_BD.php:38 modifica_alumne_BD.php:222
+#: modifica_pare_BD.php:38 modifica_pare_BD.php:222 modifica_profe_BD.php:39
+#: modifica_profe_BD.php:223
+msgid ""
+"The image has a incompatible proportions and therefore could not uploaded"
+msgstr ""
+
+#: inserir_alumne_BD.php:208 inserir_pare_BD.php:208 inserir_profe_BD.php:209
+#: modifica_alumne_BD.php:227 modifica_pare_BD.php:227
+#: modifica_profe_BD.php:228
+msgid ""
+"The image resolution is larger than 1600x1200 and therefore can not be "
+"uploaded"
+msgstr ""
+
+#: inserir_alumne_BD.php:212 inserir_pare_BD.php:212 inserir_profe_BD.php:213
+#: modifica_alumne_BD.php:231 modifica_pare_BD.php:231
+#: modifica_profe_BD.php:232
+msgid "The largest image is 2MB and thus not be so uplodaded"
+msgstr ""
+
+#: inserir_alumne_BD.php:230
+msgid ""
+"Fatal error cannot continue, redirecting in 3 seconds to student's "
+"management page..."
+msgstr ""
+
+#: inserir_alumne_BD.php:254 modifica_alumne_BD.php:272
+#, fuzzy
+msgid " Student no."
+msgstr "Alumne núm."
+
+#: inserir_alumne_BD.php:254 inserir_grup_BD.php:30 inserir_pare_BD.php:254
+#: inserir_profe_BD.php:255
+msgid " inserted correctly"
+msgstr ""
+
+#: inserir_alumne_BD.php:256
+msgid "Unable to insert the student no. "
+msgstr ""
+
+#: inserir_alumne_BD.php:263 inserir_pare_BD.php:263 inserir_profe_BD.php:264
+#: modifica_alumne_BD.php:281 modifica_pare_BD.php:283
+#: modifica_profe_BD.php:283
+msgid "Passwords do not match and therefore failed to insert"
+msgstr ""
+
+#: inserir_grup_BD.php:30 modifica_grup_BD.php:30
+#, fuzzy
+msgid " Group no."
+msgstr " Grup núm."
+
+#: inserir_grup_BD.php:32
+msgid "Unable to insert the group no. "
+msgstr ""
+
+#: inserir_grup_BD.php:36 modifica_grup_BD.php:36
+msgid "Here you will be redirected in 5 seconds to group management page..."
+msgstr ""
+
+#: inserir_pare_BD.php:23 modifica_pare_BD.php:24
+msgid "father_"
+msgstr ""
+
+#: inserir_pare_BD.php:230
+msgid ""
+"Fatal error cannot continue, redirecting in 3 seconds to father's management "
+"page..."
+msgstr ""
+
+#: inserir_pare_BD.php:254 modifica_pare_BD.php:274
+msgid " Father no."
+msgstr ""
+
+#: inserir_pare_BD.php:256
+msgid "Unable to insert the father no. "
+msgstr ""
+
+#: inserir_profe_BD.php:24 modifica_profe_BD.php:25
+msgid "teacher_"
+msgstr ""
+
+#: inserir_profe_BD.php:231
+msgid ""
+"Fatal error cannot continue, redirecting in 3 seconds to to teacher's "
+"management page..."
+msgstr ""
+
+#: inserir_profe_BD.php:255 modifica_profe_BD.php:274
+msgid " Teacher no."
+msgstr ""
+
+#: inserir_profe_BD.php:257
+msgid "Unable to insert the teacher no. "
+msgstr ""
+
+#: inserir_profe_BD.php:261 modifica_profe_BD.php:280
+msgid ""
+"Here you will be redirected in 5 seconds to teacher's management page......"
+msgstr ""
+
+#: modifica_alumne_BD.php:249
+msgid ""
+"Fatal error cannot continue, redirecting in 3 seconds to student's "
+"management page......"
+msgstr ""
+
+#: modifica_alumne_BD.php:272 modifica_grup_BD.php:30 modifica_pare_BD.php:274
+#: modifica_profe_BD.php:274
+msgid " updated correctly"
+msgstr ""
+
+#: modifica_alumne_BD.php:274
+msgid "Unable to update the student no. "
+msgstr ""
+
+#: modifica_alumne_BD.php:285 modifica_pare_BD.php:287
+#: modifica_profe_BD.php:287
+msgid "The old password entered is not valid and therefore failed to insert"
+msgstr ""
+
+#: modifica_grup_BD.php:32
+msgid "Unable to update the group no. "
+msgstr ""
+
+#: modifica_pare_BD.php:249
+msgid ""
+"Fatal error cannot continue, redirecting in 3 seconds to father's management "
+"page......"
+msgstr ""
+
+#: modifica_pare_BD.php:276
+msgid "Unable to update the father no. "
+msgstr ""
+
+#: modifica_profe_BD.php:250
+msgid ""
+"Fatal error cannot continue, redirecting in 3 seconds to teacher's "
+"management page......"
+msgstr ""
+
+#: modifica_profe_BD.php:276
+msgid "Unable to update the teacher no. "
+msgstr ""
+
+#: modifying_profile_father.php:80
+msgid "EROOR: Mobile phone is required."
+msgstr ""
+
+#: modifying_profile_father.php:84
+msgid "EROOR: Email is required."
+msgstr ""
+
+#: modifying_profile_father.php:216 modifying_profile.php:202
+#: modifying_profile_student.php:213
+msgid "ERROR: This picture is disproportionate or stay low resolution."
+msgstr ""
+
+#: modifying_profile_father.php:221 modifying_profile.php:205
+#: modifying_profile_student.php:218
+msgid "EROOR: This picture is too large."
+msgstr ""
+
+#: modifying_profile_father.php:233 modifying_profile.php:213
+#: modifying_profile_student.php:230
+msgid "ERROR: Incorrect password"
+msgstr ""
+
+#: modifying_profile_father.php:235 modifying_profile.php:215
+#: modifying_profile_student.php:232
+msgid "ERROR: Incorrect new password"
+msgstr ""
+
+#: modifying_profile_father.php:347 modifying_profile.php:321
+#: modifying_profile_student.php:336
+msgid "*This field is required"
+msgstr ""
+
+#: recupera_alumne_BD.php:42 recupera_alumne_BD.php:61
+msgid "Successfully recovered the student no."
+msgstr ""
+
+#: recupera_alumne_BD.php:43 recupera_alumne_BD.php:62
+msgid " students successfully recovered"
+msgstr ""
+
+#: recupera_alumne_BD.php:47 recupera_alumne_BD.php:65
+msgid "Unable to successfully recover the student no. "
+msgstr ""
+
+#: recupera_alumne_BD.php:48 recupera_alumne_BD.php:66
+#: recupera_professor_BD.php:47 recupera_professor_BD.php:66
+#, fuzzy
+msgid "Error: not recovered  "
+msgstr "Error: grup no definit"
+
+#: recupera_professor_BD.php:42 recupera_professor_BD.php:61
+msgid "Successfully recovered the teacher no."
+msgstr ""
+
+#: recupera_professor_BD.php:43 recupera_professor_BD.php:62
+msgid " teachers successfully recovered"
+msgstr ""
+
+#: recupera_professor_BD.php:46 recupera_professor_BD.php:65
+msgid "Unable to successfully recovered the teacher no. "
+msgstr ""
+
+#: selec_estadistiques.php:70
+#, fuzzy
+msgid "Mon"
+msgstr "dl"
+
+#: selec_estadistiques.php:70
+#, fuzzy
+msgid "Tue"
+msgstr "dm"
+
+#: selec_estadistiques.php:70
+#, fuzzy
+msgid "Wed"
+msgstr "dc"
+
+#: selec_estadistiques.php:70
+#, fuzzy
+msgid "The"
+msgstr "dj"
+
+#: selec_estadistiques.php:70
+#, fuzzy
+msgid "Fri"
+msgstr "dv"
+
+#: selec_estadistiques.php:91
+msgid "Users in database"
+msgstr ""
+
+#: selec_estadistiques.php:98
+msgid "Active"
+msgstr ""
+
+#: selec_estadistiques.php:99
+msgid "Inactive"
+msgstr ""
+
+#: selec_estadistiques.php:109
+msgid "State of the students in database"
+msgstr ""
+
+#: selec_estadistiques.php:116
+msgid "In Tortosa"
+msgstr ""
+
+#: selec_estadistiques.php:117
+msgid "Out Tortosa"
+msgstr ""
+
+#: selec_estadistiques.php:127
+msgid "Students living in Tortosa"
+msgstr ""
+
+#: selec_estadistiques.php:134
+msgid "Seniors"
+msgstr ""
+
+#: selec_estadistiques.php:135
+msgid "Minors"
+msgstr ""
+
+#: selec_estadistiques.php:145
+#, fuzzy
+msgid "Students over age"
+msgstr "Gestió d'alumnes"
+
+#: selec_estadistiques.php:153 selec_estadistiques.php:171
+#, fuzzy
+msgid "Studens"
+msgstr "Alumne"
+
+#: selec_estadistiques.php:164
+msgid "Comparison of Parents in Students"
+msgstr ""
+
+#: selec_estadistiques.php:182
+msgid "Comparison of Students in Teachers"
+msgstr ""
+
+#: selec_estadistiques.php:190
+msgid "Want sms"
+msgstr ""
+
+#: selec_estadistiques.php:191
+msgid "not Want sms"
+msgstr ""
+
+#: selec_estadistiques.php:201
+msgid "Parents want sms"
+msgstr ""
+
+#: selec_estadistiques.php:209
+msgid "Want mail"
+msgstr ""
+
+#: selec_estadistiques.php:210
+msgid "not Want mail"
+msgstr ""
+
+#: selec_estadistiques.php:220
+msgid "Parents want mail"
+msgstr ""
+
+#: selec_estadistiques.php:364
+#, fuzzy
+msgid "Stadistics of the groups"
+msgstr "Alumnes del grup"
+
+#: selec_estadistiques.php:452 includes/common-header.php:108
+msgid "Absences"
+msgstr ""
+
+#: selec_estadistiques.php:452
+msgid ""
+"Documented \n"
+"absences"
+msgstr ""
+
+#: selec_estadistiques.php:453
+msgid "Delays"
+msgstr ""
+
+#: selec_estadistiques.php:453
+msgid ""
+"Documented \n"
+"Delays"
+msgstr ""
+
+#: selec_estadistiques.php:462
+#, fuzzy
+msgid "Total incidents"
+msgstr "Estudiants potencials"
+
+#: selec_estadistiques.php:495
+msgid "Absences for weekday"
+msgstr ""
+
+#: selec_estadistiques.php:528
+msgid "Documented absences for weekday"
+msgstr ""
+
+#: selec_estadistiques.php:558
+msgid "Delays for weekday"
+msgstr ""
+
+#: selec_estadistiques.php:589
+msgid "Documented Delays for weekday"
+msgstr ""
+
+#: selec_estadistiques.php:619
+msgid "Expulsion for weekday"
+msgstr ""
+
+#: selec_estadistiques.php:651
+msgid "Absences by Time"
+msgstr ""
+
+#: selec_estadistiques.php:682
+msgid "Documented absences by Time"
+msgstr ""
+
+#: selec_estadistiques.php:713
+msgid "Delay by Time"
+msgstr ""
+
+#: selec_estadistiques.php:745
+msgid "Documented Delay by Time"
+msgstr ""
+
+#: selec_estadistiques.php:777
+msgid "Expulsion by Time"
+msgstr ""
+
+#: selecgroup.php:140
+msgid "Accept"
+msgstr "Aceptar"
+
+#: select_option_avis_pares.php:140
+msgid " ha faltat de "
+msgstr ""
+
+#: select_option_avis_pares.php:146
+msgid " ha fet tard a la classe de "
+msgstr ""
+
+#: select_option_avis_pares.php:152
+msgid " ha estat expulsat a la classe de "
+msgstr ""
+
+#: select_option_avis_pares.php:157
+msgid "Benvolguts pares, s'informa que l'alumne "
+msgstr ""
+
+#: select_option_avis_pares.php:157
+msgid "el dia "
+msgstr ""
+
+#: select_option_avis_pares.php:250
+msgid " <b> ha faltat de "
+msgstr ""
+
+#: select_option_avis_pares.php:255
+msgid " <b> ha fet tard a la classe de "
+msgstr ""
+
+#: select_option_avis_pares.php:260
+msgid " <b> ha estat expulsat a la classe de "
+msgstr ""
+
+#: select_option_avis_pares.php:295
+msgid "Benvolguts pares"
+msgstr ""
+
+#: select_option_avis_pares.php:296
+msgid "S'informa que l'alumne "
+msgstr ""
+
+#: select_option_avis_pares.php:297
+msgid "</b> el dia "
+msgstr ""
+
+#: select_option_avis_pares.php:305
+msgid "Per mes informació visiteu"
+msgstr ""
+
+#: StudentManagment.php:79 StudentManagment.php:89
+msgid "Insert error"
+msgstr "Error al insertar!"
+
+#: StudentManagment.php:127
+msgid "Students from group"
+msgstr "Alumnes del grup"
+
+#: StudentManagment.php:129
+msgid "Add"
+msgstr "Afegir"
+
+#: StudentManagment.php:130
+msgid "Delete"
+msgstr "Esborrar"
+
+#: StudentManagment.php:144
+msgid "potential students"
+msgstr "Estudiants potencials"
+
+#: StudentManagment.php:160
+msgid "Error: group not defined"
+msgstr "Error: grup no definit"
+
+#: tutoria.php:65
+msgid "Groups Tutorship"
+msgstr "Tutoritza els teus grups"
+
+#: includes/common-header.php:102
+msgid "Administration"
+msgstr "Administració"
+
+#: includes/common-header.php:115
+msgid "Reports"
+msgstr "Informes"
+
+#: includes/common-header.php:118
+msgid "Close Session"
+msgstr "Tancar"
+
+#: javascript/calendar.php:135
+msgid "Su"
+msgstr "dg"
+
+#: javascript/calendar.php:136
+msgid "Mo"
+msgstr "dl"
+
+#: javascript/calendar.php:137
+msgid "Tu"
+msgstr "dm"
+
+#: javascript/calendar.php:138
+msgid "We"
+msgstr "dc"
+
+#: javascript/calendar.php:139
+msgid "Th"
+msgstr "dj"
+
+#: javascript/calendar.php:140
+msgid "Fr"
+msgstr "dv"
+
+#: javascript/calendar.php:141
+msgid "Sa"
+msgstr "ds"
+
+#: javascript/calendar.php:143
+msgid "Jan"
+msgstr "gen."
+
+#: javascript/calendar.php:144
+msgid "Feb."
+msgstr "febr."
+
+#: javascript/calendar.php:145
+msgid "Mar"
+msgstr "mar."
+
+#: javascript/calendar.php:146
+msgid "Apr."
+msgstr "abr."
+
+#: javascript/calendar.php:148
+msgid "Jun"
+msgstr "juny"
+
+#: javascript/calendar.php:149
+msgid "Jul."
+msgstr "jul."
+
+#: javascript/calendar.php:150
+msgid "Aug"
+msgstr "ag."
+
+#: javascript/calendar.php:151
+msgid "Sep"
+msgstr "set."
+
+#: javascript/calendar.php:152
+msgid "Oct"
+msgstr "oct."
+
+#: javascript/calendar.php:153
+msgid "Nov"
+msgstr "nov."
+
+#: javascript/calendar.php:154
+msgid "Dec"
+msgstr "des."
+
+#: javascript/calendar.php:158
+msgid "Go to the next month"
+msgstr "Anar al mes següent"
+
+#: javascript/calendar.php:159
+msgid "Go to the previous month"
+msgstr "Anar al mes anterior"
+
+#: javascript/calendar.php:160
+msgid "Clear"
+msgstr "Netejar"
+
+#: javascript/calendar.php:161
+msgid "Clears any dates selected on the calendar"
+msgstr "Netejar totes les dates seleccionades al calendari"
+
+#: javascript/calendar.php:162
+msgid "This is the maximum range"
+msgstr "Aquest és el màxim"
+
+#~ msgid "News"
+#~ msgstr "Novetats"
+
+#~ msgid "Roll call from day"
+#~ msgstr "Passar llista el dia"
